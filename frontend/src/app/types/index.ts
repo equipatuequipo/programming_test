@@ -1,6 +1,6 @@
 import type { FormControl } from '@angular/forms';
 
-export { CustomerSelect, CustomerCreate } from './customer';
+export { Customer } from './customer';
 
 /**
  * This type allows for better type inference in Angular's FormGroups.
